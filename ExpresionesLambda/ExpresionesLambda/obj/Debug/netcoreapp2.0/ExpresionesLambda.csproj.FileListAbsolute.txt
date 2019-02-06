@@ -1,0 +1,11 @@
+D:\univalle\2019\Programacion III\ExpresionesLambda\ExpresionesLambda\bin\Debug\netcoreapp2.0\ExpresionesLambda.deps.json
+D:\univalle\2019\Programacion III\ExpresionesLambda\ExpresionesLambda\bin\Debug\netcoreapp2.0\ExpresionesLambda.runtimeconfig.json
+D:\univalle\2019\Programacion III\ExpresionesLambda\ExpresionesLambda\bin\Debug\netcoreapp2.0\ExpresionesLambda.runtimeconfig.dev.json
+D:\univalle\2019\Programacion III\ExpresionesLambda\ExpresionesLambda\bin\Debug\netcoreapp2.0\ExpresionesLambda.dll
+D:\univalle\2019\Programacion III\ExpresionesLambda\ExpresionesLambda\bin\Debug\netcoreapp2.0\ExpresionesLambda.pdb
+D:\univalle\2019\Programacion III\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp2.0\ExpresionesLambda.csprojAssemblyReference.cache
+D:\univalle\2019\Programacion III\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp2.0\ExpresionesLambda.csproj.CoreCompileInputs.cache
+D:\univalle\2019\Programacion III\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp2.0\ExpresionesLambda.AssemblyInfoInputs.cache
+D:\univalle\2019\Programacion III\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp2.0\ExpresionesLambda.AssemblyInfo.cs
+D:\univalle\2019\Programacion III\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp2.0\ExpresionesLambda.dll
+D:\univalle\2019\Programacion III\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp2.0\ExpresionesLambda.pdb

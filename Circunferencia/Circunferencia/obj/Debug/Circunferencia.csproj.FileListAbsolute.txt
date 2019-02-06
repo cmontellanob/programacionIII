@@ -1,0 +1,10 @@
+D:\univalle\2019\Programacion III\Circunferencia\Circunferencia\bin\Debug\Circunferencia.exe.config
+D:\univalle\2019\Programacion III\Circunferencia\Circunferencia\bin\Debug\Circunferencia.exe
+D:\univalle\2019\Programacion III\Circunferencia\Circunferencia\bin\Debug\Circunferencia.pdb
+D:\univalle\2019\Programacion III\Circunferencia\Circunferencia\obj\Debug\Circunferencia.csprojAssemblyReference.cache
+D:\univalle\2019\Programacion III\Circunferencia\Circunferencia\obj\Debug\Circunferencia.Form1.resources
+D:\univalle\2019\Programacion III\Circunferencia\Circunferencia\obj\Debug\Circunferencia.Properties.Resources.resources
+D:\univalle\2019\Programacion III\Circunferencia\Circunferencia\obj\Debug\Circunferencia.csproj.GenerateResource.cache
+D:\univalle\2019\Programacion III\Circunferencia\Circunferencia\obj\Debug\Circunferencia.csproj.CoreCompileInputs.cache
+D:\univalle\2019\Programacion III\Circunferencia\Circunferencia\obj\Debug\Circunferencia.exe
+D:\univalle\2019\Programacion III\Circunferencia\Circunferencia\obj\Debug\Circunferencia.pdb

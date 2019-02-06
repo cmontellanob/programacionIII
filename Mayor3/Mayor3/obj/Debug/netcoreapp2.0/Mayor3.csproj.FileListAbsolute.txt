@@ -1,0 +1,11 @@
+D:\univalle\2019\Programacion III\Mayor3\Mayor3\bin\Debug\netcoreapp2.0\Mayor3.deps.json
+D:\univalle\2019\Programacion III\Mayor3\Mayor3\bin\Debug\netcoreapp2.0\Mayor3.runtimeconfig.json
+D:\univalle\2019\Programacion III\Mayor3\Mayor3\bin\Debug\netcoreapp2.0\Mayor3.runtimeconfig.dev.json
+D:\univalle\2019\Programacion III\Mayor3\Mayor3\bin\Debug\netcoreapp2.0\Mayor3.dll
+D:\univalle\2019\Programacion III\Mayor3\Mayor3\bin\Debug\netcoreapp2.0\Mayor3.pdb
+D:\univalle\2019\Programacion III\Mayor3\Mayor3\obj\Debug\netcoreapp2.0\Mayor3.csprojAssemblyReference.cache
+D:\univalle\2019\Programacion III\Mayor3\Mayor3\obj\Debug\netcoreapp2.0\Mayor3.csproj.CoreCompileInputs.cache
+D:\univalle\2019\Programacion III\Mayor3\Mayor3\obj\Debug\netcoreapp2.0\Mayor3.AssemblyInfoInputs.cache
+D:\univalle\2019\Programacion III\Mayor3\Mayor3\obj\Debug\netcoreapp2.0\Mayor3.AssemblyInfo.cs
+D:\univalle\2019\Programacion III\Mayor3\Mayor3\obj\Debug\netcoreapp2.0\Mayor3.dll
+D:\univalle\2019\Programacion III\Mayor3\Mayor3\obj\Debug\netcoreapp2.0\Mayor3.pdb

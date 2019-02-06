@@ -1,0 +1,11 @@
+D:\univalle\2019\Programacion III\Delegados3\Delegados3\bin\Debug\netcoreapp2.0\Delegados3.deps.json
+D:\univalle\2019\Programacion III\Delegados3\Delegados3\bin\Debug\netcoreapp2.0\Delegados3.runtimeconfig.json
+D:\univalle\2019\Programacion III\Delegados3\Delegados3\bin\Debug\netcoreapp2.0\Delegados3.runtimeconfig.dev.json
+D:\univalle\2019\Programacion III\Delegados3\Delegados3\bin\Debug\netcoreapp2.0\Delegados3.dll
+D:\univalle\2019\Programacion III\Delegados3\Delegados3\bin\Debug\netcoreapp2.0\Delegados3.pdb
+D:\univalle\2019\Programacion III\Delegados3\Delegados3\obj\Debug\netcoreapp2.0\Delegados3.csproj.CoreCompileInputs.cache
+D:\univalle\2019\Programacion III\Delegados3\Delegados3\obj\Debug\netcoreapp2.0\Delegados3.AssemblyInfoInputs.cache
+D:\univalle\2019\Programacion III\Delegados3\Delegados3\obj\Debug\netcoreapp2.0\Delegados3.AssemblyInfo.cs
+D:\univalle\2019\Programacion III\Delegados3\Delegados3\obj\Debug\netcoreapp2.0\Delegados3.dll
+D:\univalle\2019\Programacion III\Delegados3\Delegados3\obj\Debug\netcoreapp2.0\Delegados3.pdb
+D:\univalle\2019\Programacion III\Delegados3\Delegados3\obj\Debug\netcoreapp2.0\Delegados3.csprojAssemblyReference.cache

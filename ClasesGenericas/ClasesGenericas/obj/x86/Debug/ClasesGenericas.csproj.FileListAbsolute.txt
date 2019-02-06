@@ -1,0 +1,6 @@
+D:\univalle\2019\Programacion III\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.exe
+D:\univalle\2019\Programacion III\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.pdb
+D:\univalle\2019\Programacion III\ClasesGenericas\ClasesGenericas\obj\x86\Debug\ClasesGenericas.csprojAssemblyReference.cache
+D:\univalle\2019\Programacion III\ClasesGenericas\ClasesGenericas\obj\x86\Debug\ClasesGenericas.csproj.CoreCompileInputs.cache
+D:\univalle\2019\Programacion III\ClasesGenericas\ClasesGenericas\obj\x86\Debug\ClasesGenericas.exe
+D:\univalle\2019\Programacion III\ClasesGenericas\ClasesGenericas\obj\x86\Debug\ClasesGenericas.pdb

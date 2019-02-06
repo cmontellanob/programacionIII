@@ -1,0 +1,14 @@
+D:\3er semestre\Programacion3\tareanro1\tareanro1\bin\Debug\tareanro1.exe.config
+D:\3er semestre\Programacion3\tareanro1\tareanro1\bin\Debug\tareanro1.exe
+D:\3er semestre\Programacion3\tareanro1\tareanro1\bin\Debug\tareanro1.pdb
+D:\3er semestre\Programacion3\tareanro1\tareanro1\obj\Debug\tareanro1.csprojResolveAssemblyReference.cache
+D:\3er semestre\Programacion3\tareanro1\tareanro1\obj\Debug\tareanro1.csproj.CoreCompileInputs.cache
+D:\3er semestre\Programacion3\tareanro1\tareanro1\obj\Debug\tareanro1.exe
+D:\3er semestre\Programacion3\tareanro1\tareanro1\obj\Debug\tareanro1.pdb
+D:\univalle\2019\tareanro1\tareanro1\bin\Debug\tareanro1.exe.config
+D:\univalle\2019\tareanro1\tareanro1\bin\Debug\tareanro1.exe
+D:\univalle\2019\tareanro1\tareanro1\bin\Debug\tareanro1.pdb
+D:\univalle\2019\tareanro1\tareanro1\obj\Debug\tareanro1.csprojAssemblyReference.cache
+D:\univalle\2019\tareanro1\tareanro1\obj\Debug\tareanro1.csproj.CoreCompileInputs.cache
+D:\univalle\2019\tareanro1\tareanro1\obj\Debug\tareanro1.exe
+D:\univalle\2019\tareanro1\tareanro1\obj\Debug\tareanro1.pdb

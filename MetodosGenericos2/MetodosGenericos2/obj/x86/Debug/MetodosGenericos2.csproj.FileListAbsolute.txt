@@ -1,0 +1,6 @@
+D:\univalle\2019\Programacion III\MetodosGenericos2\MetodosGenericos2\bin\Debug\MetodosGenericos2.exe
+D:\univalle\2019\Programacion III\MetodosGenericos2\MetodosGenericos2\bin\Debug\MetodosGenericos2.pdb
+D:\univalle\2019\Programacion III\MetodosGenericos2\MetodosGenericos2\obj\x86\Debug\MetodosGenericos2.csprojAssemblyReference.cache
+D:\univalle\2019\Programacion III\MetodosGenericos2\MetodosGenericos2\obj\x86\Debug\MetodosGenericos2.csproj.CoreCompileInputs.cache
+D:\univalle\2019\Programacion III\MetodosGenericos2\MetodosGenericos2\obj\x86\Debug\MetodosGenericos2.exe
+D:\univalle\2019\Programacion III\MetodosGenericos2\MetodosGenericos2\obj\x86\Debug\MetodosGenericos2.pdb

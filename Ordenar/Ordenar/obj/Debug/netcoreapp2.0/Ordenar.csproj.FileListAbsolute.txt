@@ -1,0 +1,11 @@
+D:\univalle\2019\Programacion III\Ordenar\Ordenar\bin\Debug\netcoreapp2.0\Ordenar.deps.json
+D:\univalle\2019\Programacion III\Ordenar\Ordenar\bin\Debug\netcoreapp2.0\Ordenar.runtimeconfig.json
+D:\univalle\2019\Programacion III\Ordenar\Ordenar\bin\Debug\netcoreapp2.0\Ordenar.runtimeconfig.dev.json
+D:\univalle\2019\Programacion III\Ordenar\Ordenar\bin\Debug\netcoreapp2.0\Ordenar.dll
+D:\univalle\2019\Programacion III\Ordenar\Ordenar\bin\Debug\netcoreapp2.0\Ordenar.pdb
+D:\univalle\2019\Programacion III\Ordenar\Ordenar\obj\Debug\netcoreapp2.0\Ordenar.csprojAssemblyReference.cache
+D:\univalle\2019\Programacion III\Ordenar\Ordenar\obj\Debug\netcoreapp2.0\Ordenar.csproj.CoreCompileInputs.cache
+D:\univalle\2019\Programacion III\Ordenar\Ordenar\obj\Debug\netcoreapp2.0\Ordenar.AssemblyInfoInputs.cache
+D:\univalle\2019\Programacion III\Ordenar\Ordenar\obj\Debug\netcoreapp2.0\Ordenar.AssemblyInfo.cs
+D:\univalle\2019\Programacion III\Ordenar\Ordenar\obj\Debug\netcoreapp2.0\Ordenar.dll
+D:\univalle\2019\Programacion III\Ordenar\Ordenar\obj\Debug\netcoreapp2.0\Ordenar.pdb

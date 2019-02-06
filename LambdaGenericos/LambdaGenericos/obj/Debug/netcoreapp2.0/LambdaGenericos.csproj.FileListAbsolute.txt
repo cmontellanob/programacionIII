@@ -1,0 +1,11 @@
+D:\univalle\2019\Programacion III\LambdaGenericos\LambdaGenericos\bin\Debug\netcoreapp2.0\LambdaGenericos.deps.json
+D:\univalle\2019\Programacion III\LambdaGenericos\LambdaGenericos\bin\Debug\netcoreapp2.0\LambdaGenericos.runtimeconfig.json
+D:\univalle\2019\Programacion III\LambdaGenericos\LambdaGenericos\bin\Debug\netcoreapp2.0\LambdaGenericos.runtimeconfig.dev.json
+D:\univalle\2019\Programacion III\LambdaGenericos\LambdaGenericos\bin\Debug\netcoreapp2.0\LambdaGenericos.dll
+D:\univalle\2019\Programacion III\LambdaGenericos\LambdaGenericos\bin\Debug\netcoreapp2.0\LambdaGenericos.pdb
+D:\univalle\2019\Programacion III\LambdaGenericos\LambdaGenericos\obj\Debug\netcoreapp2.0\LambdaGenericos.csproj.CoreCompileInputs.cache
+D:\univalle\2019\Programacion III\LambdaGenericos\LambdaGenericos\obj\Debug\netcoreapp2.0\LambdaGenericos.AssemblyInfoInputs.cache
+D:\univalle\2019\Programacion III\LambdaGenericos\LambdaGenericos\obj\Debug\netcoreapp2.0\LambdaGenericos.AssemblyInfo.cs
+D:\univalle\2019\Programacion III\LambdaGenericos\LambdaGenericos\obj\Debug\netcoreapp2.0\LambdaGenericos.dll
+D:\univalle\2019\Programacion III\LambdaGenericos\LambdaGenericos\obj\Debug\netcoreapp2.0\LambdaGenericos.pdb
+D:\univalle\2019\Programacion III\LambdaGenericos\LambdaGenericos\obj\Debug\netcoreapp2.0\LambdaGenericos.csprojAssemblyReference.cache

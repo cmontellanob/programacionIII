@@ -1,0 +1,11 @@
+D:\univalle\2019\Programacion III\MetodosGenericos3\MetodosGenericos3\bin\Debug\netcoreapp2.0\MetodosGenericos3.deps.json
+D:\univalle\2019\Programacion III\MetodosGenericos3\MetodosGenericos3\bin\Debug\netcoreapp2.0\MetodosGenericos3.runtimeconfig.json
+D:\univalle\2019\Programacion III\MetodosGenericos3\MetodosGenericos3\bin\Debug\netcoreapp2.0\MetodosGenericos3.runtimeconfig.dev.json
+D:\univalle\2019\Programacion III\MetodosGenericos3\MetodosGenericos3\bin\Debug\netcoreapp2.0\MetodosGenericos3.dll
+D:\univalle\2019\Programacion III\MetodosGenericos3\MetodosGenericos3\bin\Debug\netcoreapp2.0\MetodosGenericos3.pdb
+D:\univalle\2019\Programacion III\MetodosGenericos3\MetodosGenericos3\obj\Debug\netcoreapp2.0\MetodosGenericos3.csprojAssemblyReference.cache
+D:\univalle\2019\Programacion III\MetodosGenericos3\MetodosGenericos3\obj\Debug\netcoreapp2.0\MetodosGenericos3.csproj.CoreCompileInputs.cache
+D:\univalle\2019\Programacion III\MetodosGenericos3\MetodosGenericos3\obj\Debug\netcoreapp2.0\MetodosGenericos3.AssemblyInfoInputs.cache
+D:\univalle\2019\Programacion III\MetodosGenericos3\MetodosGenericos3\obj\Debug\netcoreapp2.0\MetodosGenericos3.AssemblyInfo.cs
+D:\univalle\2019\Programacion III\MetodosGenericos3\MetodosGenericos3\obj\Debug\netcoreapp2.0\MetodosGenericos3.dll
+D:\univalle\2019\Programacion III\MetodosGenericos3\MetodosGenericos3\obj\Debug\netcoreapp2.0\MetodosGenericos3.pdb

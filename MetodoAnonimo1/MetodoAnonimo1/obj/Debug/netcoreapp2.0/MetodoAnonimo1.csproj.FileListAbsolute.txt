@@ -1,0 +1,10 @@
+D:\univalle\2019\Programacion III\MetodoAnonimo1\MetodoAnonimo1\bin\Debug\netcoreapp2.0\MetodoAnonimo1.deps.json
+D:\univalle\2019\Programacion III\MetodoAnonimo1\MetodoAnonimo1\bin\Debug\netcoreapp2.0\MetodoAnonimo1.runtimeconfig.json
+D:\univalle\2019\Programacion III\MetodoAnonimo1\MetodoAnonimo1\bin\Debug\netcoreapp2.0\MetodoAnonimo1.runtimeconfig.dev.json
+D:\univalle\2019\Programacion III\MetodoAnonimo1\MetodoAnonimo1\bin\Debug\netcoreapp2.0\MetodoAnonimo1.dll
+D:\univalle\2019\Programacion III\MetodoAnonimo1\MetodoAnonimo1\bin\Debug\netcoreapp2.0\MetodoAnonimo1.pdb
+D:\univalle\2019\Programacion III\MetodoAnonimo1\MetodoAnonimo1\obj\Debug\netcoreapp2.0\MetodoAnonimo1.csproj.CoreCompileInputs.cache
+D:\univalle\2019\Programacion III\MetodoAnonimo1\MetodoAnonimo1\obj\Debug\netcoreapp2.0\MetodoAnonimo1.AssemblyInfoInputs.cache
+D:\univalle\2019\Programacion III\MetodoAnonimo1\MetodoAnonimo1\obj\Debug\netcoreapp2.0\MetodoAnonimo1.AssemblyInfo.cs
+D:\univalle\2019\Programacion III\MetodoAnonimo1\MetodoAnonimo1\obj\Debug\netcoreapp2.0\MetodoAnonimo1.dll
+D:\univalle\2019\Programacion III\MetodoAnonimo1\MetodoAnonimo1\obj\Debug\netcoreapp2.0\MetodoAnonimo1.pdb
