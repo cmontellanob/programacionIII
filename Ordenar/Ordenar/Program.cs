@@ -13,7 +13,9 @@ namespace Ordenar
             }
             ordena1(array1);
             string[] vector= {"uno","dos","tres" };
+
             ordena1(vector);
+
             Console.ReadKey();
         }
 
