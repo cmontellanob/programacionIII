@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\univalle\\2019\\Programacion III\\Eventos\\Eventos\\Eventos.csproj",
+      "projectUniqueName": "D:\\univalle\\2019\\programacionIII\\Eventos\\Eventos\\Eventos.csproj",
       "projectName": "Eventos",
-      "projectPath": "D:\\univalle\\2019\\Programacion III\\Eventos\\Eventos\\Eventos.csproj",
+      "projectPath": "D:\\univalle\\2019\\programacionIII\\Eventos\\Eventos\\Eventos.csproj",
       "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-      "outputPath": "D:\\univalle\\2019\\Programacion III\\Eventos\\Eventos\\obj\\",
+      "outputPath": "D:\\univalle\\2019\\programacionIII\\Eventos\\Eventos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

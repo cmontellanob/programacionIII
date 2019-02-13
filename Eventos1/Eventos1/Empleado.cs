@@ -27,6 +27,7 @@ namespace Eventos1
                 this.Nombre = s;
 
             //lanzar el evento
+            if  (s!=anteriorNombre)
              if (this.NombreCambiado != null)
                     this.NombreCambiado("Era " + anteriorNombre + " y ahora es "+this.Nombre);
             }

@@ -1,0 +1,11 @@
+D:\univalle\2019\programacionIII\Eventos3\Eventos3\bin\Debug\netcoreapp2.0\Eventos3.deps.json
+D:\univalle\2019\programacionIII\Eventos3\Eventos3\bin\Debug\netcoreapp2.0\Eventos3.runtimeconfig.json
+D:\univalle\2019\programacionIII\Eventos3\Eventos3\bin\Debug\netcoreapp2.0\Eventos3.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\Eventos3\Eventos3\bin\Debug\netcoreapp2.0\Eventos3.dll
+D:\univalle\2019\programacionIII\Eventos3\Eventos3\bin\Debug\netcoreapp2.0\Eventos3.pdb
+D:\univalle\2019\programacionIII\Eventos3\Eventos3\obj\Debug\netcoreapp2.0\Eventos3.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\Eventos3\Eventos3\obj\Debug\netcoreapp2.0\Eventos3.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\Eventos3\Eventos3\obj\Debug\netcoreapp2.0\Eventos3.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\Eventos3\Eventos3\obj\Debug\netcoreapp2.0\Eventos3.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\Eventos3\Eventos3\obj\Debug\netcoreapp2.0\Eventos3.dll
+D:\univalle\2019\programacionIII\Eventos3\Eventos3\obj\Debug\netcoreapp2.0\Eventos3.pdb

@@ -1,0 +1,11 @@
+D:\univalle\2019\programacionIII\Inventario\Inventario\obj\Debug\netcoreapp2.0\Inventario.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\Inventario\Inventario\obj\Debug\netcoreapp2.0\Inventario.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\Inventario\Inventario\obj\Debug\netcoreapp2.0\Inventario.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\Inventario\Inventario\obj\Debug\netcoreapp2.0\Inventario.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\Inventario\Inventario\bin\Debug\netcoreapp2.0\Inventario.deps.json
+D:\univalle\2019\programacionIII\Inventario\Inventario\bin\Debug\netcoreapp2.0\Inventario.runtimeconfig.json
+D:\univalle\2019\programacionIII\Inventario\Inventario\bin\Debug\netcoreapp2.0\Inventario.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\Inventario\Inventario\bin\Debug\netcoreapp2.0\Inventario.dll
+D:\univalle\2019\programacionIII\Inventario\Inventario\bin\Debug\netcoreapp2.0\Inventario.pdb
+D:\univalle\2019\programacionIII\Inventario\Inventario\obj\Debug\netcoreapp2.0\Inventario.dll
+D:\univalle\2019\programacionIII\Inventario\Inventario\obj\Debug\netcoreapp2.0\Inventario.pdb
