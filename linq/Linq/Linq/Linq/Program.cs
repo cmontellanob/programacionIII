@@ -17,7 +17,7 @@ namespace Linq
             MostrarArchivosGrandesConLinq(ruta);
             Console.ReadKey();
         }
-        private static void MostrarArchivosGrandesSinLinq(string ruta)
+        private static void MostrarArchivosGrandesConLinq(string ruta)
         {
             var consulta = new DirectoryInfo(ruta).GetFiles()
                             .OrderByDescending(f => f.Length)
@@ -28,7 +28,7 @@ namespace Linq
                 Console.WriteLine($"{file.Name,-20} : {file.Length,10:N0}");
             }
         }
-        private static void MostrarArchivosGrandesConLinq(string path)
+        private static void MostrarArchivosGrandesSinLinq(string path)
         {
             DirectoryInfo directory = new DirectoryInfo(path);
             FileInfo[] files = directory.GetFiles();

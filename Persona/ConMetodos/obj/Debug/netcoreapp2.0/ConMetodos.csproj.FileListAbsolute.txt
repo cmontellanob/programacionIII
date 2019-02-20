@@ -1,0 +1,11 @@
+D:\univalle\2019\programacionIII\Persona\ConMetodos\obj\Debug\netcoreapp2.0\ConMetodos.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\Persona\ConMetodos\obj\Debug\netcoreapp2.0\ConMetodos.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\Persona\ConMetodos\obj\Debug\netcoreapp2.0\ConMetodos.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\Persona\ConMetodos\obj\Debug\netcoreapp2.0\ConMetodos.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\Persona\ConMetodos\bin\Debug\netcoreapp2.0\ConMetodos.deps.json
+D:\univalle\2019\programacionIII\Persona\ConMetodos\bin\Debug\netcoreapp2.0\ConMetodos.runtimeconfig.json
+D:\univalle\2019\programacionIII\Persona\ConMetodos\bin\Debug\netcoreapp2.0\ConMetodos.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\Persona\ConMetodos\bin\Debug\netcoreapp2.0\ConMetodos.dll
+D:\univalle\2019\programacionIII\Persona\ConMetodos\bin\Debug\netcoreapp2.0\ConMetodos.pdb
+D:\univalle\2019\programacionIII\Persona\ConMetodos\obj\Debug\netcoreapp2.0\ConMetodos.dll
+D:\univalle\2019\programacionIII\Persona\ConMetodos\obj\Debug\netcoreapp2.0\ConMetodos.pdb

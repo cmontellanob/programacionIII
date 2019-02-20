@@ -1,0 +1,11 @@
+D:\univalle\2019\programacionIII\Persona\ConConsultas\bin\Debug\netcoreapp2.0\ConConsultas.deps.json
+D:\univalle\2019\programacionIII\Persona\ConConsultas\bin\Debug\netcoreapp2.0\ConConsultas.runtimeconfig.json
+D:\univalle\2019\programacionIII\Persona\ConConsultas\bin\Debug\netcoreapp2.0\ConConsultas.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\Persona\ConConsultas\bin\Debug\netcoreapp2.0\ConConsultas.dll
+D:\univalle\2019\programacionIII\Persona\ConConsultas\bin\Debug\netcoreapp2.0\ConConsultas.pdb
+D:\univalle\2019\programacionIII\Persona\ConConsultas\obj\Debug\netcoreapp2.0\ConConsultas.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\Persona\ConConsultas\obj\Debug\netcoreapp2.0\ConConsultas.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\Persona\ConConsultas\obj\Debug\netcoreapp2.0\ConConsultas.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\Persona\ConConsultas\obj\Debug\netcoreapp2.0\ConConsultas.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\Persona\ConConsultas\obj\Debug\netcoreapp2.0\ConConsultas.dll
+D:\univalle\2019\programacionIII\Persona\ConConsultas\obj\Debug\netcoreapp2.0\ConConsultas.pdb
