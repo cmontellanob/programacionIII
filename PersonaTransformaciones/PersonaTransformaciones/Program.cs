@@ -56,11 +56,19 @@ namespace PersonaTransformaciones
 
             var consulta = from e in Estudiantes
                         select e.Ciudad;
+            foreach (var persona in consulta)
+            {
+                Console.WriteLine(persona);
+            }
 
             // Crea un subconjunto con dos valores
-
+             
             var consulta1 = from e in Estudiantes
                         select new { Nombre = e.Nombre , Ciudad = e.Ciudad};
+            foreach (var p in consulta)
+            {
+                Console.WriteLine(p);
+            }
 
             // transforma en XML 
             var EstudiantesToXML = new XElement("Root",

@@ -1,0 +1,11 @@
+D:\univalle\2019\programacionIII\QueueEjemplo\QueueEjemplo\bin\Debug\netcoreapp2.0\QueueEjemplo.deps.json
+D:\univalle\2019\programacionIII\QueueEjemplo\QueueEjemplo\bin\Debug\netcoreapp2.0\QueueEjemplo.runtimeconfig.json
+D:\univalle\2019\programacionIII\QueueEjemplo\QueueEjemplo\bin\Debug\netcoreapp2.0\QueueEjemplo.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\QueueEjemplo\QueueEjemplo\bin\Debug\netcoreapp2.0\QueueEjemplo.dll
+D:\univalle\2019\programacionIII\QueueEjemplo\QueueEjemplo\bin\Debug\netcoreapp2.0\QueueEjemplo.pdb
+D:\univalle\2019\programacionIII\QueueEjemplo\QueueEjemplo\obj\Debug\netcoreapp2.0\QueueEjemplo.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\QueueEjemplo\QueueEjemplo\obj\Debug\netcoreapp2.0\QueueEjemplo.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\QueueEjemplo\QueueEjemplo\obj\Debug\netcoreapp2.0\QueueEjemplo.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\QueueEjemplo\QueueEjemplo\obj\Debug\netcoreapp2.0\QueueEjemplo.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\QueueEjemplo\QueueEjemplo\obj\Debug\netcoreapp2.0\QueueEjemplo.dll
+D:\univalle\2019\programacionIII\QueueEjemplo\QueueEjemplo\obj\Debug\netcoreapp2.0\QueueEjemplo.pdb

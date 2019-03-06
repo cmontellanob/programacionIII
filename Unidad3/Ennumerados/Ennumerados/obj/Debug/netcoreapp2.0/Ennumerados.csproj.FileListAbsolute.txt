@@ -1,0 +1,11 @@
+D:\univalle\2019\programacionIII\Unidad3\Ennumerados\Ennumerados\bin\Debug\netcoreapp2.0\Ennumerados.deps.json
+D:\univalle\2019\programacionIII\Unidad3\Ennumerados\Ennumerados\bin\Debug\netcoreapp2.0\Ennumerados.runtimeconfig.json
+D:\univalle\2019\programacionIII\Unidad3\Ennumerados\Ennumerados\bin\Debug\netcoreapp2.0\Ennumerados.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\Unidad3\Ennumerados\Ennumerados\bin\Debug\netcoreapp2.0\Ennumerados.dll
+D:\univalle\2019\programacionIII\Unidad3\Ennumerados\Ennumerados\bin\Debug\netcoreapp2.0\Ennumerados.pdb
+D:\univalle\2019\programacionIII\Unidad3\Ennumerados\Ennumerados\obj\Debug\netcoreapp2.0\Ennumerados.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\Unidad3\Ennumerados\Ennumerados\obj\Debug\netcoreapp2.0\Ennumerados.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\Unidad3\Ennumerados\Ennumerados\obj\Debug\netcoreapp2.0\Ennumerados.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\Unidad3\Ennumerados\Ennumerados\obj\Debug\netcoreapp2.0\Ennumerados.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\Unidad3\Ennumerados\Ennumerados\obj\Debug\netcoreapp2.0\Ennumerados.dll
+D:\univalle\2019\programacionIII\Unidad3\Ennumerados\Ennumerados\obj\Debug\netcoreapp2.0\Ennumerados.pdb

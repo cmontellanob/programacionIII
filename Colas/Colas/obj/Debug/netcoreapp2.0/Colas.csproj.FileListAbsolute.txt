@@ -1,0 +1,11 @@
+D:\univalle\2019\programacionIII\Colas\Colas\bin\Debug\netcoreapp2.0\Colas.deps.json
+D:\univalle\2019\programacionIII\Colas\Colas\bin\Debug\netcoreapp2.0\Colas.runtimeconfig.json
+D:\univalle\2019\programacionIII\Colas\Colas\bin\Debug\netcoreapp2.0\Colas.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\Colas\Colas\bin\Debug\netcoreapp2.0\Colas.dll
+D:\univalle\2019\programacionIII\Colas\Colas\bin\Debug\netcoreapp2.0\Colas.pdb
+D:\univalle\2019\programacionIII\Colas\Colas\obj\Debug\netcoreapp2.0\Colas.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\Colas\Colas\obj\Debug\netcoreapp2.0\Colas.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\Colas\Colas\obj\Debug\netcoreapp2.0\Colas.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\Colas\Colas\obj\Debug\netcoreapp2.0\Colas.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\Colas\Colas\obj\Debug\netcoreapp2.0\Colas.dll
+D:\univalle\2019\programacionIII\Colas\Colas\obj\Debug\netcoreapp2.0\Colas.pdb

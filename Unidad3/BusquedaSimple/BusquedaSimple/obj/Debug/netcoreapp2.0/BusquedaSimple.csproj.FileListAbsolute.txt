@@ -1,0 +1,11 @@
+D:\univalle\2019\programacionIII\Unidad3\BusquedaSimple\BusquedaSimple\bin\Debug\netcoreapp2.0\BusquedaSimple.deps.json
+D:\univalle\2019\programacionIII\Unidad3\BusquedaSimple\BusquedaSimple\bin\Debug\netcoreapp2.0\BusquedaSimple.runtimeconfig.json
+D:\univalle\2019\programacionIII\Unidad3\BusquedaSimple\BusquedaSimple\bin\Debug\netcoreapp2.0\BusquedaSimple.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\Unidad3\BusquedaSimple\BusquedaSimple\bin\Debug\netcoreapp2.0\BusquedaSimple.dll
+D:\univalle\2019\programacionIII\Unidad3\BusquedaSimple\BusquedaSimple\bin\Debug\netcoreapp2.0\BusquedaSimple.pdb
+D:\univalle\2019\programacionIII\Unidad3\BusquedaSimple\BusquedaSimple\obj\Debug\netcoreapp2.0\BusquedaSimple.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\Unidad3\BusquedaSimple\BusquedaSimple\obj\Debug\netcoreapp2.0\BusquedaSimple.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\Unidad3\BusquedaSimple\BusquedaSimple\obj\Debug\netcoreapp2.0\BusquedaSimple.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\Unidad3\BusquedaSimple\BusquedaSimple\obj\Debug\netcoreapp2.0\BusquedaSimple.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\Unidad3\BusquedaSimple\BusquedaSimple\obj\Debug\netcoreapp2.0\BusquedaSimple.dll
+D:\univalle\2019\programacionIII\Unidad3\BusquedaSimple\BusquedaSimple\obj\Debug\netcoreapp2.0\BusquedaSimple.pdb

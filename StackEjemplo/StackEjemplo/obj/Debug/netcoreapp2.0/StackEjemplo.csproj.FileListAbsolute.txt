@@ -1,0 +1,11 @@
+D:\univalle\2019\programacionIII\StackEjemplo\StackEjemplo\obj\Debug\netcoreapp2.0\StackEjemplo.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\StackEjemplo\StackEjemplo\obj\Debug\netcoreapp2.0\StackEjemplo.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\StackEjemplo\StackEjemplo\obj\Debug\netcoreapp2.0\StackEjemplo.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\StackEjemplo\StackEjemplo\obj\Debug\netcoreapp2.0\StackEjemplo.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\StackEjemplo\StackEjemplo\bin\Debug\netcoreapp2.0\StackEjemplo.deps.json
+D:\univalle\2019\programacionIII\StackEjemplo\StackEjemplo\bin\Debug\netcoreapp2.0\StackEjemplo.runtimeconfig.json
+D:\univalle\2019\programacionIII\StackEjemplo\StackEjemplo\bin\Debug\netcoreapp2.0\StackEjemplo.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\StackEjemplo\StackEjemplo\bin\Debug\netcoreapp2.0\StackEjemplo.dll
+D:\univalle\2019\programacionIII\StackEjemplo\StackEjemplo\bin\Debug\netcoreapp2.0\StackEjemplo.pdb
+D:\univalle\2019\programacionIII\StackEjemplo\StackEjemplo\obj\Debug\netcoreapp2.0\StackEjemplo.dll
+D:\univalle\2019\programacionIII\StackEjemplo\StackEjemplo\obj\Debug\netcoreapp2.0\StackEjemplo.pdb

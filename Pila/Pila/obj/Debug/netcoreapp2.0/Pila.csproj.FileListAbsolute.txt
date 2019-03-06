@@ -1,0 +1,11 @@
+D:\univalle\2019\programacionIII\Pila\Pila\bin\Debug\netcoreapp2.0\Pila.deps.json
+D:\univalle\2019\programacionIII\Pila\Pila\bin\Debug\netcoreapp2.0\Pila.runtimeconfig.json
+D:\univalle\2019\programacionIII\Pila\Pila\bin\Debug\netcoreapp2.0\Pila.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\Pila\Pila\bin\Debug\netcoreapp2.0\Pila.dll
+D:\univalle\2019\programacionIII\Pila\Pila\bin\Debug\netcoreapp2.0\Pila.pdb
+D:\univalle\2019\programacionIII\Pila\Pila\obj\Debug\netcoreapp2.0\Pila.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\Pila\Pila\obj\Debug\netcoreapp2.0\Pila.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\Pila\Pila\obj\Debug\netcoreapp2.0\Pila.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\Pila\Pila\obj\Debug\netcoreapp2.0\Pila.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\Pila\Pila\obj\Debug\netcoreapp2.0\Pila.dll
+D:\univalle\2019\programacionIII\Pila\Pila\obj\Debug\netcoreapp2.0\Pila.pdb
