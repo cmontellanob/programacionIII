@@ -1,0 +1,11 @@
+D:\univalle\2019\programacionIII\ListasEnlazadas\ListasEnlazadas\obj\Debug\netcoreapp2.0\ListasEnlazadas.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\ListasEnlazadas\ListasEnlazadas\obj\Debug\netcoreapp2.0\ListasEnlazadas.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\ListasEnlazadas\ListasEnlazadas\obj\Debug\netcoreapp2.0\ListasEnlazadas.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\ListasEnlazadas\ListasEnlazadas\obj\Debug\netcoreapp2.0\ListasEnlazadas.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\ListasEnlazadas\ListasEnlazadas\bin\Debug\netcoreapp2.0\ListasEnlazadas.deps.json
+D:\univalle\2019\programacionIII\ListasEnlazadas\ListasEnlazadas\bin\Debug\netcoreapp2.0\ListasEnlazadas.runtimeconfig.json
+D:\univalle\2019\programacionIII\ListasEnlazadas\ListasEnlazadas\bin\Debug\netcoreapp2.0\ListasEnlazadas.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\ListasEnlazadas\ListasEnlazadas\bin\Debug\netcoreapp2.0\ListasEnlazadas.dll
+D:\univalle\2019\programacionIII\ListasEnlazadas\ListasEnlazadas\bin\Debug\netcoreapp2.0\ListasEnlazadas.pdb
+D:\univalle\2019\programacionIII\ListasEnlazadas\ListasEnlazadas\obj\Debug\netcoreapp2.0\ListasEnlazadas.dll
+D:\univalle\2019\programacionIII\ListasEnlazadas\ListasEnlazadas\obj\Debug\netcoreapp2.0\ListasEnlazadas.pdb

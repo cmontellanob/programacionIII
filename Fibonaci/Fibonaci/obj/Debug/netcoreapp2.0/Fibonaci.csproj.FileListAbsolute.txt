@@ -1,0 +1,11 @@
+D:\univalle\2019\programacionIII\Fibonaci\Fibonaci\bin\Debug\netcoreapp2.0\Fibonaci.deps.json
+D:\univalle\2019\programacionIII\Fibonaci\Fibonaci\bin\Debug\netcoreapp2.0\Fibonaci.runtimeconfig.json
+D:\univalle\2019\programacionIII\Fibonaci\Fibonaci\bin\Debug\netcoreapp2.0\Fibonaci.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\Fibonaci\Fibonaci\bin\Debug\netcoreapp2.0\Fibonaci.dll
+D:\univalle\2019\programacionIII\Fibonaci\Fibonaci\bin\Debug\netcoreapp2.0\Fibonaci.pdb
+D:\univalle\2019\programacionIII\Fibonaci\Fibonaci\obj\Debug\netcoreapp2.0\Fibonaci.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\Fibonaci\Fibonaci\obj\Debug\netcoreapp2.0\Fibonaci.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\Fibonaci\Fibonaci\obj\Debug\netcoreapp2.0\Fibonaci.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\Fibonaci\Fibonaci\obj\Debug\netcoreapp2.0\Fibonaci.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\Fibonaci\Fibonaci\obj\Debug\netcoreapp2.0\Fibonaci.dll
+D:\univalle\2019\programacionIII\Fibonaci\Fibonaci\obj\Debug\netcoreapp2.0\Fibonaci.pdb

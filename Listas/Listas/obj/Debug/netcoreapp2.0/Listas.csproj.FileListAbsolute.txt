@@ -1,0 +1,10 @@
+D:\univalle\2019\programacionIII\Listas\Listas\obj\Debug\netcoreapp2.0\Listas.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\Listas\Listas\obj\Debug\netcoreapp2.0\Listas.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\Listas\Listas\obj\Debug\netcoreapp2.0\Listas.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\Listas\Listas\bin\Debug\netcoreapp2.0\Listas.deps.json
+D:\univalle\2019\programacionIII\Listas\Listas\bin\Debug\netcoreapp2.0\Listas.runtimeconfig.json
+D:\univalle\2019\programacionIII\Listas\Listas\bin\Debug\netcoreapp2.0\Listas.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\Listas\Listas\bin\Debug\netcoreapp2.0\Listas.dll
+D:\univalle\2019\programacionIII\Listas\Listas\bin\Debug\netcoreapp2.0\Listas.pdb
+D:\univalle\2019\programacionIII\Listas\Listas\obj\Debug\netcoreapp2.0\Listas.dll
+D:\univalle\2019\programacionIII\Listas\Listas\obj\Debug\netcoreapp2.0\Listas.pdb

@@ -1,0 +1,11 @@
+D:\univalle\2019\programacionIII\Bicola\Bicola\obj\Debug\netcoreapp2.0\Bicola.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\Bicola\Bicola\obj\Debug\netcoreapp2.0\Bicola.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\Bicola\Bicola\obj\Debug\netcoreapp2.0\Bicola.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\Bicola\Bicola\obj\Debug\netcoreapp2.0\Bicola.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\Bicola\Bicola\bin\Debug\netcoreapp2.0\Bicola.deps.json
+D:\univalle\2019\programacionIII\Bicola\Bicola\bin\Debug\netcoreapp2.0\Bicola.runtimeconfig.json
+D:\univalle\2019\programacionIII\Bicola\Bicola\bin\Debug\netcoreapp2.0\Bicola.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\Bicola\Bicola\bin\Debug\netcoreapp2.0\Bicola.dll
+D:\univalle\2019\programacionIII\Bicola\Bicola\bin\Debug\netcoreapp2.0\Bicola.pdb
+D:\univalle\2019\programacionIII\Bicola\Bicola\obj\Debug\netcoreapp2.0\Bicola.dll
+D:\univalle\2019\programacionIII\Bicola\Bicola\obj\Debug\netcoreapp2.0\Bicola.pdb
