@@ -1,0 +1,11 @@
+D:\univalle\2019\programacionIII\ArbolBinarioOrdenado\ArbolBinarioOrdenado\bin\Debug\netcoreapp2.0\ArbolBinarioOrdenado.deps.json
+D:\univalle\2019\programacionIII\ArbolBinarioOrdenado\ArbolBinarioOrdenado\bin\Debug\netcoreapp2.0\ArbolBinarioOrdenado.runtimeconfig.json
+D:\univalle\2019\programacionIII\ArbolBinarioOrdenado\ArbolBinarioOrdenado\bin\Debug\netcoreapp2.0\ArbolBinarioOrdenado.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\ArbolBinarioOrdenado\ArbolBinarioOrdenado\bin\Debug\netcoreapp2.0\ArbolBinarioOrdenado.dll
+D:\univalle\2019\programacionIII\ArbolBinarioOrdenado\ArbolBinarioOrdenado\bin\Debug\netcoreapp2.0\ArbolBinarioOrdenado.pdb
+D:\univalle\2019\programacionIII\ArbolBinarioOrdenado\ArbolBinarioOrdenado\obj\Debug\netcoreapp2.0\ArbolBinarioOrdenado.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\ArbolBinarioOrdenado\ArbolBinarioOrdenado\obj\Debug\netcoreapp2.0\ArbolBinarioOrdenado.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\ArbolBinarioOrdenado\ArbolBinarioOrdenado\obj\Debug\netcoreapp2.0\ArbolBinarioOrdenado.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\ArbolBinarioOrdenado\ArbolBinarioOrdenado\obj\Debug\netcoreapp2.0\ArbolBinarioOrdenado.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\ArbolBinarioOrdenado\ArbolBinarioOrdenado\obj\Debug\netcoreapp2.0\ArbolBinarioOrdenado.dll
+D:\univalle\2019\programacionIII\ArbolBinarioOrdenado\ArbolBinarioOrdenado\obj\Debug\netcoreapp2.0\ArbolBinarioOrdenado.pdb

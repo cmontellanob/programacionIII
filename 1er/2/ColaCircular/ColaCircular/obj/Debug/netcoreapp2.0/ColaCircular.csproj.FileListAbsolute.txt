@@ -1,0 +1,11 @@
+D:\univalle\2019\programacionIII\ColaCircular\ColaCircular\bin\Debug\netcoreapp2.0\ColaCircular.deps.json
+D:\univalle\2019\programacionIII\ColaCircular\ColaCircular\bin\Debug\netcoreapp2.0\ColaCircular.runtimeconfig.json
+D:\univalle\2019\programacionIII\ColaCircular\ColaCircular\bin\Debug\netcoreapp2.0\ColaCircular.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\ColaCircular\ColaCircular\bin\Debug\netcoreapp2.0\ColaCircular.dll
+D:\univalle\2019\programacionIII\ColaCircular\ColaCircular\bin\Debug\netcoreapp2.0\ColaCircular.pdb
+D:\univalle\2019\programacionIII\ColaCircular\ColaCircular\obj\Debug\netcoreapp2.0\ColaCircular.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\ColaCircular\ColaCircular\obj\Debug\netcoreapp2.0\ColaCircular.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\ColaCircular\ColaCircular\obj\Debug\netcoreapp2.0\ColaCircular.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\ColaCircular\ColaCircular\obj\Debug\netcoreapp2.0\ColaCircular.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\ColaCircular\ColaCircular\obj\Debug\netcoreapp2.0\ColaCircular.dll
+D:\univalle\2019\programacionIII\ColaCircular\ColaCircular\obj\Debug\netcoreapp2.0\ColaCircular.pdb

@@ -1,0 +1,44 @@
+D:\univalle\2019\Programacion III\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.deps.json
+D:\univalle\2019\Programacion III\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.runtimeconfig.json
+D:\univalle\2019\Programacion III\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.runtimeconfig.dev.json
+D:\univalle\2019\Programacion III\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.dll
+D:\univalle\2019\Programacion III\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.pdb
+D:\univalle\2019\Programacion III\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.csprojAssemblyReference.cache
+D:\univalle\2019\Programacion III\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.csproj.CoreCompileInputs.cache
+D:\univalle\2019\Programacion III\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.AssemblyInfoInputs.cache
+D:\univalle\2019\Programacion III\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.AssemblyInfo.cs
+D:\univalle\2019\Programacion III\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.dll
+D:\univalle\2019\Programacion III\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.pdb
+D:\univalle\2019\programacionIII\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.deps.json
+D:\univalle\2019\programacionIII\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.runtimeconfig.json
+D:\univalle\2019\programacionIII\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.dll
+D:\univalle\2019\programacionIII\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.pdb
+D:\univalle\2019\programacionIII\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.dll
+D:\univalle\2019\programacionIII\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.pdb
+D:\univalle\2019\programacionIII\1er\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.deps.json
+D:\univalle\2019\programacionIII\1er\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.runtimeconfig.json
+D:\univalle\2019\programacionIII\1er\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\1er\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.dll
+D:\univalle\2019\programacionIII\1er\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.pdb
+D:\univalle\2019\programacionIII\1er\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\1er\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\1er\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\1er\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\1er\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.dll
+D:\univalle\2019\programacionIII\1er\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.pdb
+D:\univalle\2019\programacionIII\1er\3\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.deps.json
+D:\univalle\2019\programacionIII\1er\3\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.runtimeconfig.json
+D:\univalle\2019\programacionIII\1er\3\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\1er\3\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.dll
+D:\univalle\2019\programacionIII\1er\3\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.pdb
+D:\univalle\2019\programacionIII\1er\3\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\1er\3\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\1er\3\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\1er\3\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\1er\3\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.dll
+D:\univalle\2019\programacionIII\1er\3\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.pdb
