@@ -1,0 +1,11 @@
+D:\univalle\2019\programacionIII\Unidad4\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\Unidad4\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\Unidad4\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\Unidad4\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\Unidad4\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.deps.json
+D:\univalle\2019\programacionIII\Unidad4\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.json
+D:\univalle\2019\programacionIII\Unidad4\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\Unidad4\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.dll
+D:\univalle\2019\programacionIII\Unidad4\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.pdb
+D:\univalle\2019\programacionIII\Unidad4\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.dll
+D:\univalle\2019\programacionIII\Unidad4\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.pdb

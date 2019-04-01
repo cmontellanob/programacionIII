@@ -1,0 +1,11 @@
+D:\univalle\2019\programacionIII\Unidad4\SingletonPatternDemo\SingletonPatternDemo\obj\Debug\netcoreapp2.0\SingletonPatternDemo.csprojAssemblyReference.cache
+D:\univalle\2019\programacionIII\Unidad4\SingletonPatternDemo\SingletonPatternDemo\obj\Debug\netcoreapp2.0\SingletonPatternDemo.csproj.CoreCompileInputs.cache
+D:\univalle\2019\programacionIII\Unidad4\SingletonPatternDemo\SingletonPatternDemo\obj\Debug\netcoreapp2.0\SingletonPatternDemo.AssemblyInfoInputs.cache
+D:\univalle\2019\programacionIII\Unidad4\SingletonPatternDemo\SingletonPatternDemo\obj\Debug\netcoreapp2.0\SingletonPatternDemo.AssemblyInfo.cs
+D:\univalle\2019\programacionIII\Unidad4\SingletonPatternDemo\SingletonPatternDemo\bin\Debug\netcoreapp2.0\SingletonPatternDemo.deps.json
+D:\univalle\2019\programacionIII\Unidad4\SingletonPatternDemo\SingletonPatternDemo\bin\Debug\netcoreapp2.0\SingletonPatternDemo.runtimeconfig.json
+D:\univalle\2019\programacionIII\Unidad4\SingletonPatternDemo\SingletonPatternDemo\bin\Debug\netcoreapp2.0\SingletonPatternDemo.runtimeconfig.dev.json
+D:\univalle\2019\programacionIII\Unidad4\SingletonPatternDemo\SingletonPatternDemo\bin\Debug\netcoreapp2.0\SingletonPatternDemo.dll
+D:\univalle\2019\programacionIII\Unidad4\SingletonPatternDemo\SingletonPatternDemo\bin\Debug\netcoreapp2.0\SingletonPatternDemo.pdb
+D:\univalle\2019\programacionIII\Unidad4\SingletonPatternDemo\SingletonPatternDemo\obj\Debug\netcoreapp2.0\SingletonPatternDemo.dll
+D:\univalle\2019\programacionIII\Unidad4\SingletonPatternDemo\SingletonPatternDemo\obj\Debug\netcoreapp2.0\SingletonPatternDemo.pdb

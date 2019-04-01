@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\univalle\\2019\\programacionIII\\1er\\Bicola\\Bicola\\Bicola.csproj",
+      "projectUniqueName": "D:\\univalle\\2019\\programacionIII\\1er\\3\\Bicola\\Bicola\\Bicola.csproj",
       "projectName": "Bicola",
-      "projectPath": "D:\\univalle\\2019\\programacionIII\\1er\\Bicola\\Bicola\\Bicola.csproj",
+      "projectPath": "D:\\univalle\\2019\\programacionIII\\1er\\3\\Bicola\\Bicola\\Bicola.csproj",
       "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-      "outputPath": "D:\\univalle\\2019\\programacionIII\\1er\\Bicola\\Bicola\\obj\\",
+      "outputPath": "D:\\univalle\\2019\\programacionIII\\1er\\3\\Bicola\\Bicola\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

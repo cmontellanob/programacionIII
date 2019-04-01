@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\univalle\\2019\\programacionIII\\1er\\ColaCircular\\ColaCircular\\ColaCircular.csproj",
+      "projectUniqueName": "D:\\univalle\\2019\\programacionIII\\1er\\2\\ColaCircular\\ColaCircular\\ColaCircular.csproj",
       "projectName": "ColaCircular",
-      "projectPath": "D:\\univalle\\2019\\programacionIII\\1er\\ColaCircular\\ColaCircular\\ColaCircular.csproj",
+      "projectPath": "D:\\univalle\\2019\\programacionIII\\1er\\2\\ColaCircular\\ColaCircular\\ColaCircular.csproj",
       "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-      "outputPath": "D:\\univalle\\2019\\programacionIII\\1er\\ColaCircular\\ColaCircular\\obj\\",
+      "outputPath": "D:\\univalle\\2019\\programacionIII\\1er\\2\\ColaCircular\\ColaCircular\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
