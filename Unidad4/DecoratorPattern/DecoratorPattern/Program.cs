@@ -15,7 +15,7 @@ namespace DecoratorPattern
                 ICuentaBancaria cuenta = new CuentaAhorro();
                 ICuentaBancaria cuentaBlindada = new BlindajeDecorador(cuenta);
 
-                //cuenta.abrirCuenta(c);
+                cuenta.abrirCuenta(c);
                 cuentaBlindada.abrirCuenta(c);
             Console.ReadLine();
            

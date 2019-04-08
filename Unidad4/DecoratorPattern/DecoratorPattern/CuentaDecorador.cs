@@ -17,7 +17,7 @@ namespace DecoratorPattern
             cuentaDecorada = cDecorada;
         }
 
-        public void abrirCuenta(Cuenta c)
+         public void  abrirCuenta(Cuenta c)
         {
             cuentaDecorada.abrirCuenta(c);
         }

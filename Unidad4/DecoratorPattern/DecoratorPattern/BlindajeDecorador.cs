@@ -13,7 +13,7 @@ namespace DecoratorPattern
            
         }
 
-        public  new void abrirCuenta(Cuenta c)
+        public void abrirCuenta(Cuenta c)
         {
             cuentaDecorada.abrirCuenta(c);
             agregarBlindaje(c);
