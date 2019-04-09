@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\univalle\\2019\\Programacion III\\Delegados1\\Delegados1\\Delegados1.csproj",
+      "projectUniqueName": "D:\\univalle\\2019\\programacionIII\\Delegados1\\Delegados1\\Delegados1.csproj",
       "projectName": "Delegados1",
-      "projectPath": "D:\\univalle\\2019\\Programacion III\\Delegados1\\Delegados1\\Delegados1.csproj",
+      "projectPath": "D:\\univalle\\2019\\programacionIII\\Delegados1\\Delegados1\\Delegados1.csproj",
       "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-      "outputPath": "D:\\univalle\\2019\\Programacion III\\Delegados1\\Delegados1\\obj\\",
+      "outputPath": "D:\\univalle\\2019\\programacionIII\\Delegados1\\Delegados1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
