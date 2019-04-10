@@ -19,10 +19,11 @@ namespace ServidorSincrono
             // Dns.GetHostName devuelve el nombre del host donde correr la aplicacion
             IPHostEntry ipHostInfo = Dns.GetHostEntry(Dns.GetHostName());
             IPAddress ipAddress = ipHostInfo.AddressList[0];
-            IPEndPoint localEndPoint = new IPEndPoint(ipAddress, 11000);
+
+            IPEndPoint localEndPoint = new IPEndPoint(IPAddress.Any, 11000);
 
             // Crea un Socket TCP/IP x.  
-            Socket listener = new Socket(ipAddress.AddressFamily,
+            Socket listener = new Socket(IPAddress.Any.AddressFamily,
                 SocketType.Stream, ProtocolType.Tcp);
 
 
