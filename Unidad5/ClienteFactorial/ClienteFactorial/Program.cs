@@ -3,11 +3,12 @@ using System.Net;
 using System.Net.Sockets;
 using System.Text;
 
-namespace ClienteSincrono
+namespace ClienteFactorial
 {
+   
     class Program
     {
-        public static void StartClient(String cadena)
+        public static void StartClient(int Nro)
         {
 
             // Declara un bufer de  datos para recibir datos .  
@@ -20,12 +21,10 @@ namespace ClienteSincrono
                 // Este ejemplo usa el puerto 11000 en la computadora local.  
                 IPHostEntry ipHostInfo = Dns.GetHostEntry(Dns.GetHostName());
                 IPAddress ipAddress = ipHostInfo.AddressList[0];
-//               IPEndPopPnt remoteEP = new IPEndPoint(ipAddrPAdress.Paress, 11000);
-
-                IPEndPoint remoteEP = new IPEndPoint(IPAddress.Parse("192.168.50.85"), 11000);
+                 IPEndPoint remoteEP = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 11000);
 
                 // Crear un socket TCP/IP  .  
-                Socket sender = new Socket(AddressFamily.InterNetwork,SocketType.Stream, ProtocolType.Tcp);
+                Socket sender = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
 
                 // Conetarse al punto final remoto  captura cualquier error .  
                 try
@@ -35,16 +34,17 @@ namespace ClienteSincrono
                     Console.WriteLine("Socket connectado a {0}",
                         sender.RemoteEndPoint.ToString());
 
-                    // codifica datos en un string dentro de un arreglo de bits. 
-
-                    byte[] msg = Encoding.ASCII.GetBytes(cadena);
-                     
+                    // convertir el nro entero a bytes . 
+                    
+                    byte[] intBytes = BitConverter.GetBytes(Nro);
+                  
                     // Envia datos a traves del socket .  
-                    int bytesSent = sender.Send(msg);
+                    int bytesSent = sender.Send(intBytes);
+                    
 
                     // Recibe ladespuesta desde el dispositivo remoto .  
                     int bytesRec = sender.Receive(bytes);
-                    Console.WriteLine("Imprime Prueba = {0}",
+                    Console.WriteLine("El Factorial es = {0}",
                         Encoding.ASCII.GetString(bytes, 0, bytesRec));
 
                     // libera el socket.  
@@ -72,12 +72,13 @@ namespace ClienteSincrono
             }
         }
 
-        public static int Main(String[] args)
+        public static void Main(String[] args)
         {
-            Console.WriteLine("Introduzca una cadena");
-            string cadena = Console.ReadLine() + "<EOF>";
-            StartClient(cadena);
-            return 0;
+            Console.WriteLine("Introduzca Un Numero");
+            int Nro = int.Parse(Console.ReadLine());
+            StartClient(Nro);
+            
         }
+
     }
 }
