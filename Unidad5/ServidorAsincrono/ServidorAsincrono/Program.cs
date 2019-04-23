@@ -6,9 +6,10 @@ using System;
 using System.Net;  
 using System.Net.Sockets;  
 using System.Text;  
-using System.Threading;  
+using System.Threading;
+
+    // Objeto Estado para leer los datos del cliente asincronilbamente 
   
-// Objeto Estado para leer los datos del cliente asincronamente 
 public class StateObject
     {
         // socket del Client  .  
@@ -22,7 +23,15 @@ public class StateObject
     }
 
     public class AsynchronousSocketListener
+
     {
+        public static int sumatoria(int n)
+        {
+            if (n == 0)
+                return 0;
+            else
+                return sumatoria(n - 1) + n;
+        }
         // Señal de hilo .  
         public static ManualResetEvent allDone = new ManualResetEvent(false);
 
@@ -116,13 +125,18 @@ public class StateObject
                 // mas datos.  
                 content = state.sb.ToString();
                 if (content.IndexOf("<EOF>") > -1)
+
                 {
-                    // todos los datos han sido leidos desde el    
-                    // cliente muestra en laocnsola .  
-                    Console.WriteLine("Leido {0} bytes desde el socket. \n Dato : {1}",
-                        content.Length, content);
+                    string nro=content.Substring(0, content.IndexOf("<EOF>"));
+
+                    int sum = sumatoria(int.Parse(nro));
+                    String respuesta = sum.ToString();
+                     //leidos desde el    
+                     // cliente muestra en laocnsola .  
+                     Console.WriteLine("Calculo de la sumatoria  de {0} es  \n Dato : {1}",
+                        nro, respuesta);
                     // imprimir el dato deregreso al cliente.  
-                    Send(handler, content);
+                    Send(handler, respuesta);
                 }
                 else
                 {

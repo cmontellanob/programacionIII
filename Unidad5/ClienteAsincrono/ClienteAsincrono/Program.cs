@@ -61,11 +61,13 @@ public class StateObject
                     new AsyncCallback(ConnectCallback), client);
                 connectDone.WaitOne();
 
-                // Enviar datos de prueba al dispositivo remoto .  
-                Send(client, "Esta es una prueba<EOF>");
+                // Enviar datos de prueba al dispositivo remoto .
+                Console.WriteLine("Introduzca un numero");
+                string nro = Console.ReadLine();
+                Send(client, nro+"<EOF>");
                 sendDone.WaitOne();
 
-                // Recibir la respuesta desde el dispositivoremoto .  
+                // Recibir la respuesta desde el dispositivoremoto .  in
                 Receive(client);
                 receiveDone.WaitOne();
 
