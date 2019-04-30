@@ -45,6 +45,7 @@
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
             this.panel5 = new System.Windows.Forms.Panel();
+            this.lblMensaje = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pb22)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pb21)).BeginInit();
@@ -79,64 +80,80 @@
             this.pb22.Location = new System.Drawing.Point(234, 211);
             this.pb22.Name = "pb22";
             this.pb22.Size = new System.Drawing.Size(88, 79);
+            this.pb22.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pb22.TabIndex = 8;
             this.pb22.TabStop = false;
+            this.pb22.Click += new System.EventHandler(this.pb22_Click);
             // 
             // pb21
             // 
             this.pb21.Location = new System.Drawing.Point(125, 211);
             this.pb21.Name = "pb21";
             this.pb21.Size = new System.Drawing.Size(88, 79);
+            this.pb21.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pb21.TabIndex = 7;
             this.pb21.TabStop = false;
+            this.pb21.Click += new System.EventHandler(this.pb21_Click);
             // 
             // pb20
             // 
             this.pb20.Location = new System.Drawing.Point(13, 211);
             this.pb20.Name = "pb20";
             this.pb20.Size = new System.Drawing.Size(88, 79);
+            this.pb20.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pb20.TabIndex = 6;
             this.pb20.TabStop = false;
+            this.pb20.Click += new System.EventHandler(this.pb20_Click);
             // 
             // pb12
             // 
             this.pb12.Location = new System.Drawing.Point(234, 113);
             this.pb12.Name = "pb12";
             this.pb12.Size = new System.Drawing.Size(88, 79);
+            this.pb12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pb12.TabIndex = 5;
             this.pb12.TabStop = false;
+            this.pb12.Click += new System.EventHandler(this.pb12_Click);
             // 
             // pb11
             // 
             this.pb11.Location = new System.Drawing.Point(125, 113);
             this.pb11.Name = "pb11";
             this.pb11.Size = new System.Drawing.Size(88, 79);
+            this.pb11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pb11.TabIndex = 4;
             this.pb11.TabStop = false;
+            this.pb11.Click += new System.EventHandler(this.pb11_Click);
             // 
             // pb10
             // 
             this.pb10.Location = new System.Drawing.Point(13, 113);
             this.pb10.Name = "pb10";
             this.pb10.Size = new System.Drawing.Size(88, 79);
+            this.pb10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pb10.TabIndex = 3;
             this.pb10.TabStop = false;
+            this.pb10.Click += new System.EventHandler(this.pb10_Click);
             // 
             // pb02
             // 
             this.pb02.Location = new System.Drawing.Point(234, 12);
             this.pb02.Name = "pb02";
             this.pb02.Size = new System.Drawing.Size(88, 79);
+            this.pb02.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pb02.TabIndex = 2;
             this.pb02.TabStop = false;
+            this.pb02.Click += new System.EventHandler(this.pb02_Click);
             // 
             // pb01
             // 
             this.pb01.Location = new System.Drawing.Point(125, 12);
             this.pb01.Name = "pb01";
             this.pb01.Size = new System.Drawing.Size(88, 79);
+            this.pb01.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pb01.TabIndex = 1;
             this.pb01.TabStop = false;
+            this.pb01.Click += new System.EventHandler(this.pb01_Click);
             // 
             // pb00
             // 
@@ -208,11 +225,22 @@
             this.panel5.Size = new System.Drawing.Size(15, 283);
             this.panel5.TabIndex = 7;
             // 
+            // lblMensaje
+            // 
+            this.lblMensaje.AutoSize = true;
+            this.lblMensaje.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMensaje.ForeColor = System.Drawing.Color.Maroon;
+            this.lblMensaje.Location = new System.Drawing.Point(23, 361);
+            this.lblMensaje.Name = "lblMensaje";
+            this.lblMensaje.Size = new System.Drawing.Size(0, 24);
+            this.lblMensaje.TabIndex = 8;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(556, 347);
+            this.ClientSize = new System.Drawing.Size(556, 404);
+            this.Controls.Add(this.lblMensaje);
             this.Controls.Add(this.panel5);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.panel3);
@@ -258,6 +286,7 @@
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Panel panel4;
         private System.Windows.Forms.Panel panel5;
+        private System.Windows.Forms.Label lblMensaje;
     }
 }
 
