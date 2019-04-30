@@ -76,7 +76,7 @@
             // 
             // pb22
             // 
-            this.pb22.Location = new System.Drawing.Point(230, 205);
+            this.pb22.Location = new System.Drawing.Point(234, 211);
             this.pb22.Name = "pb22";
             this.pb22.Size = new System.Drawing.Size(88, 79);
             this.pb22.TabIndex = 8;
@@ -84,7 +84,7 @@
             // 
             // pb21
             // 
-            this.pb21.Location = new System.Drawing.Point(125, 205);
+            this.pb21.Location = new System.Drawing.Point(125, 211);
             this.pb21.Name = "pb21";
             this.pb21.Size = new System.Drawing.Size(88, 79);
             this.pb21.TabIndex = 7;
@@ -92,7 +92,7 @@
             // 
             // pb20
             // 
-            this.pb20.Location = new System.Drawing.Point(18, 205);
+            this.pb20.Location = new System.Drawing.Point(13, 211);
             this.pb20.Name = "pb20";
             this.pb20.Size = new System.Drawing.Size(88, 79);
             this.pb20.TabIndex = 6;
@@ -100,7 +100,7 @@
             // 
             // pb12
             // 
-            this.pb12.Location = new System.Drawing.Point(230, 113);
+            this.pb12.Location = new System.Drawing.Point(234, 113);
             this.pb12.Name = "pb12";
             this.pb12.Size = new System.Drawing.Size(88, 79);
             this.pb12.TabIndex = 5;
@@ -116,7 +116,7 @@
             // 
             // pb10
             // 
-            this.pb10.Location = new System.Drawing.Point(18, 113);
+            this.pb10.Location = new System.Drawing.Point(13, 113);
             this.pb10.Name = "pb10";
             this.pb10.Size = new System.Drawing.Size(88, 79);
             this.pb10.TabIndex = 3;
@@ -124,7 +124,7 @@
             // 
             // pb02
             // 
-            this.pb02.Location = new System.Drawing.Point(230, 18);
+            this.pb02.Location = new System.Drawing.Point(234, 12);
             this.pb02.Name = "pb02";
             this.pb02.Size = new System.Drawing.Size(88, 79);
             this.pb02.TabIndex = 2;
@@ -132,7 +132,7 @@
             // 
             // pb01
             // 
-            this.pb01.Location = new System.Drawing.Point(125, 18);
+            this.pb01.Location = new System.Drawing.Point(125, 12);
             this.pb01.Name = "pb01";
             this.pb01.Size = new System.Drawing.Size(88, 79);
             this.pb01.TabIndex = 1;
@@ -140,7 +140,7 @@
             // 
             // pb00
             // 
-            this.pb00.Location = new System.Drawing.Point(18, 18);
+            this.pb00.Location = new System.Drawing.Point(13, 12);
             this.pb00.Name = "pb00";
             this.pb00.Size = new System.Drawing.Size(88, 79);
             this.pb00.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
