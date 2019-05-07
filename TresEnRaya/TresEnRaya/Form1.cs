@@ -12,6 +12,8 @@ namespace TresEnRaya
 {
     public partial class Form1 : Form
     {
+        const String rutax= "D:\\X.png";
+        const String rutaO = "D:\\O.png";
         public void AnalizaMensage(String mensaje)
         {
             String[] respuesta = mensaje.Split(':');
@@ -59,6 +61,8 @@ namespace TresEnRaya
             pb21.Image = null;
             pb22.Image = null;
             lblTurno.Text = "x";
+            lblMensaje.Text= "";
+
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
@@ -66,9 +70,9 @@ namespace TresEnRaya
 
             String respuesta= Raya.getInstancia().marcar(0,0, lblTurno.Text[0]);
             if (lblTurno.Text=="x")
-                pb00.Image= new System.Drawing.Bitmap("D:\\programacionIII\\X.png");
+                pb00.Image= new System.Drawing.Bitmap(rutax);
             else
-                pb00.Image = new System.Drawing.Bitmap("D:\\programacionIII\\O.png");
+                pb00.Image = new System.Drawing.Bitmap(rutaO);
             AnalizaMensage(respuesta);
         }
 
@@ -76,9 +80,9 @@ namespace TresEnRaya
         {
             String respuesta = Raya.getInstancia().marcar(0, 1, lblTurno.Text[0]);
             if (lblTurno.Text == "x")
-                pb01.Image = new System.Drawing.Bitmap("D:\\programacionIII\\X.png");
+                pb01.Image = new System.Drawing.Bitmap(rutax);
             else
-                pb01.Image = new System.Drawing.Bitmap("D:\\programacionIII\\O.png");
+                pb01.Image = new System.Drawing.Bitmap(rutaO);
             AnalizaMensage(respuesta);
         }
 
@@ -86,9 +90,9 @@ namespace TresEnRaya
         {
             String respuesta = Raya.getInstancia().marcar(0, 2, lblTurno.Text[0]);
             if (lblTurno.Text == "x")
-                pb02.Image = new System.Drawing.Bitmap("D:\\programacionIII\\X.png");
+                pb02.Image = new System.Drawing.Bitmap(rutax);
             else
-                pb02.Image = new System.Drawing.Bitmap("D:\\programacionIII\\O.png");
+                pb02.Image = new System.Drawing.Bitmap(rutaO);
             AnalizaMensage(respuesta);
         }
 
@@ -96,9 +100,9 @@ namespace TresEnRaya
         {
             String respuesta = Raya.getInstancia().marcar(1, 0, lblTurno.Text[0]);
             if (lblTurno.Text == "x")
-                pb10.Image = new System.Drawing.Bitmap("D:\\programacionIII\\X.png");
+                pb10.Image = new System.Drawing.Bitmap(rutax);
             else
-                pb10.Image = new System.Drawing.Bitmap("D:\\programacionIII\\O.png");
+                pb10.Image = new System.Drawing.Bitmap(rutaO);
             AnalizaMensage(respuesta);
         }
 
@@ -106,9 +110,9 @@ namespace TresEnRaya
         {
             String respuesta = Raya.getInstancia().marcar(1, 1, lblTurno.Text[0]);
             if (lblTurno.Text == "x")
-                pb11.Image = new System.Drawing.Bitmap("D:\\programacionIII\\X.png");
+                pb11.Image = new System.Drawing.Bitmap(rutax);
             else
-                pb11.Image = new System.Drawing.Bitmap("D:\\programacionIII\\O.png");
+                pb11.Image = new System.Drawing.Bitmap(rutaO);
             AnalizaMensage(respuesta);
         }
 
@@ -116,9 +120,9 @@ namespace TresEnRaya
         {
             String respuesta = Raya.getInstancia().marcar(1, 2, lblTurno.Text[0]);
             if (lblTurno.Text == "x")
-                pb12.Image = new System.Drawing.Bitmap("D:\\programacionIII\\X.png");
+                pb12.Image = new System.Drawing.Bitmap(rutax);
             else
-                pb12.Image = new System.Drawing.Bitmap("D:\\programacionIII\\O.png");
+                pb12.Image = new System.Drawing.Bitmap(rutaO);
             AnalizaMensage(respuesta);
         }
 
@@ -126,9 +130,9 @@ namespace TresEnRaya
         {
             String respuesta = Raya.getInstancia().marcar(2, 0, lblTurno.Text[0]);
             if (lblTurno.Text == "x")
-                pb20.Image = new System.Drawing.Bitmap("D:\\programacionIII\\X.png");
+                pb20.Image = new System.Drawing.Bitmap(rutax);
             else
-                pb20.Image = new System.Drawing.Bitmap("D:\\programacionIII\\O.png");
+                pb20.Image = new System.Drawing.Bitmap(rutaO);
             AnalizaMensage(respuesta);
         }
 
@@ -136,9 +140,9 @@ namespace TresEnRaya
         {
             String respuesta = Raya.getInstancia().marcar(2, 1, lblTurno.Text[0]);
             if (lblTurno.Text == "x")
-                pb21.Image = new System.Drawing.Bitmap("D:\\programacionIII\\X.png");
+                pb21.Image = new System.Drawing.Bitmap(rutax);
             else
-                pb21.Image = new System.Drawing.Bitmap("D:\\programacionIII\\O.png");
+                pb21.Image = new System.Drawing.Bitmap(rutaO);
             AnalizaMensage(respuesta);
         }
 
@@ -146,9 +150,9 @@ namespace TresEnRaya
         {
             String respuesta = Raya.getInstancia().marcar(2, 2, lblTurno.Text[0]);
             if (lblTurno.Text == "x")
-                pb22.Image = new System.Drawing.Bitmap("D:\\programacionIII\\X.png");
+                pb22.Image = new System.Drawing.Bitmap(rutax);
             else
-                pb22.Image = new System.Drawing.Bitmap("D:\\programacionIII\\O.png");
+                pb22.Image = new System.Drawing.Bitmap(rutaO);
             AnalizaMensage(respuesta);
         }
     }
