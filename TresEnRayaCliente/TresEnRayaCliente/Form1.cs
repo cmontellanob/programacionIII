@@ -48,33 +48,33 @@ namespace TresEnRayaCliente
 
             if (fila2[0][0] == 'x')
                 pb10.Image = new System.Drawing.Bitmap(rutax);
-            if (fila1[0][0] == 'O')
+            if (fila2[0][0] == 'O')
                 pb10.Image = new System.Drawing.Bitmap(rutaO);
 
             if (fila2[1][0] == 'x')
                 pb11.Image = new System.Drawing.Bitmap(rutax);
-            if (fila1[1][0] == 'O')
+            if (fila2[1][0] == 'O')
                 pb11.Image = new System.Drawing.Bitmap(rutaO);
 
             if (fila2[2][0] == 'x')
                 pb12.Image = new System.Drawing.Bitmap(rutax);
-            if (fila1[2][0] == 'O')
+            if (fila2[2][0] == 'O')
                 pb12.Image = new System.Drawing.Bitmap(rutaO);
 
 
             if (fila3[0][0] == 'x')
                 pb20.Image = new System.Drawing.Bitmap(rutax);
-            if (fila1[0][0] == 'O')
+            if (fila3[0][0] == 'O')
                 pb20.Image = new System.Drawing.Bitmap(rutaO);
 
             if (fila3[1][0] == 'x')
                 pb21.Image = new System.Drawing.Bitmap(rutax);
-            if (fila1[1][0] == 'O')
+            if (fila3[1][0] == 'O')
                 pb21.Image = new System.Drawing.Bitmap(rutaO);
 
             if (fila3[2][0] == 'x')
                 pb22.Image = new System.Drawing.Bitmap(rutax);
-            if (fila1[2][0] == 'O')
+            if (fila3[2][0] == 'O')
                 pb22.Image = new System.Drawing.Bitmap(rutaO);
 
         }

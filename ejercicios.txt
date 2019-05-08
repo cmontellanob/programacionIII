@@ -1,0 +1,7 @@
+Crear un programa en C# que permita evaluar una expresión aritmeticadelas4 operaciones básicas con el uso de paréntesis 
+Ej:
+5+6*7/(4-2) 
+Para lograr este cometido se debe, primeramente, obtener su representación en notación polaca inversa o postfija y luego evaluarla
+Notación
+567*42-/+
+Construir la clase evaluación que tiene los métodos crear polaca y evaluar polaca 
