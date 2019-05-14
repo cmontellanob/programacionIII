@@ -1,0 +1,5 @@
+Ahorcado
+
+Lista de palabras ->  banco de palabras para que saque una al zar en el juego y no se ala misma
+Adicionar la palabra
+
