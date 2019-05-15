@@ -25,7 +25,7 @@ namespace Ahorcado
             int indice = rnd.Next(3);
             PalabraAdivinar = Palabras[indice];
             Guiones = "";
-            Guiones=Guiones.PadLeft(PalabraAdivinar.Count(), '_');
+            Guiones=Guiones.PadLeft(PalabraAdivinar.Count(), '-');
         }
         public String Buscar(char Letra)
         {
@@ -51,17 +51,20 @@ namespace Ahorcado
             }
             else
             {
-                return Estado.ToString();             }
+                Estado++;
+                return Guiones;             }
         }
-        public Boolean BuscarPalabra(String Palabra)
+        public String BuscarPalabra(String Palabra)
         {
             if (Palabra == PalabraAdivinar)
-                return true;
+            {
+                Guiones = PalabraAdivinar;
+            }
             else
             {
                 Estado++;
-                return false;
             }
+            return Guiones;
             
         }
 
