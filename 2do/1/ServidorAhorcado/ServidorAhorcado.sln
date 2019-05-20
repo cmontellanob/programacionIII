@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServidorAhorcado", "ServidorAhorcado\ServidorAhorcado.csproj", "{FFCD0053-DD31-46CB-A46A-33B743B6A52F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C8017C24-EA1A-4FD6-935E-7135979AD437}"
+	ProjectSection(SolutionItems) = preProject
+		Ahorcado.cs = Ahorcado.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFCD0053-DD31-46CB-A46A-33B743B6A52F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCD0053-DD31-46CB-A46A-33B743B6A52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCD0053-DD31-46CB-A46A-33B743B6A52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCD0053-DD31-46CB-A46A-33B743B6A52F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E4DAB0A-886D-4E8C-A264-C44DF3315BBF}
+	EndGlobalSection
+EndGlobal
