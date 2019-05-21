@@ -1,0 +1,2 @@
+Realizar un programa que permita al usuario responder 10 preguntas que están definidas previamente, estas preguntas son abiertas y se responden con una sola palabra, al final de contestadas las 10 preguntas el sistema debe mostrar el puntaje obtenido.
+Adicionalmente el sistema paralelamente debe contabilizar 2 minutos para responder dichas preguntas , culminado este tiempo  el sistema informa que el tiempo ha terminado y muestra el puntaje obtenido
