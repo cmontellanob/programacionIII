@@ -9,13 +9,14 @@ using static Android.App.ActionBar;
 namespace CalculadoraFinancieraDroid
 {
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
-    
+
     public class MainActivity : AppCompatActivity
     {
         Button btnObtener;
         EditText n;
         LinearLayout textBoxHolder;
         List<EditText> _TextosEdicion;
+        Button btnCalcular;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -23,16 +24,16 @@ namespace CalculadoraFinancieraDroid
             SetContentView(Resource.Layout.activity_main);
 
             btnObtener = FindViewById<Button>(Resource.Id.btnObtener);
+            btnCalcular = FindViewById<Button>(Resource.Id.btnCalcular);
             textBoxHolder = FindViewById<LinearLayout>(Resource.Id.lTextos);
-            n= FindViewById<EditText>(Resource.Id.textVN);
+            n = FindViewById<EditText>(Resource.Id.textVN);
             btnObtener.Click += btnObtener_Click;
-
+            btnCalcular.Click += btnCalcular_Click;
             _TextosEdicion = new List<EditText>();
-
         }
         void btnObtener_Click(object sender, System.EventArgs e)
         {
-            for (int i=1;i<=int.Parse(n.Text);i++)
+            for (int i = 1; i <= int.Parse(n.Text); i++)
             {
                 var editText = new EditText(this);
                 editText.Tag = $"Flujo {i}";
@@ -50,10 +51,14 @@ namespace CalculadoraFinancieraDroid
                 textBoxHolder.AddView(editText);
 
             }
+        }
+        void btnCalcular_Click(object sender, System.EventArgs e)
+        {
+            foreach (EditText editor in _TextosEdicion)
+            {
+                string valor= editor.Text;
+            }
 
-            
-
-            
         }
     }
 }
