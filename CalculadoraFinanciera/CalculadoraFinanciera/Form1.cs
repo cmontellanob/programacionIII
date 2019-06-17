@@ -41,6 +41,8 @@ namespace CalculadoraFinanciera
                 }
 
             }
+            CalFinanciera  cal= new CalFinanciera(i, tasa);
+            van=cal.VAN(I0)
 
         }
     }

@@ -54,10 +54,15 @@ namespace CalculadoraFinancieraDroid
         }
         void btnCalcular_Click(object sender, System.EventArgs e)
         {
+            double[] flujos = new double[int.Parse(n.Text)];
+            int i = 0;
             foreach (EditText editor in _TextosEdicion)
             {
-                string valor= editor.Text;
+                flujos[i] = double.Parse(editor.Text);
+                i++;
             }
+            CalculadoraFinanciera cal = new();
+
 
         }
     }
